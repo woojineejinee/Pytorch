@@ -1,1 +1,1 @@
-Deep Learning with Pytorch라는 책으로 파이토치 실습
+'딥러닝 파이토치 교과서'라는 책으로 파이토치 실습
